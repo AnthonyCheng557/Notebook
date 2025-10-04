@@ -1,5 +1,5 @@
 
-# notebook-app
+# Notebook
 
 A simple **full-stack notebook app** built with **Node.js, Express, HTML/CSS/JavaScript, and SQLite3**.  
 This project is intended for **testing API endpoints** and learning backend interactions using Node.Js and Express.
