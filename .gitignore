@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# SQLite database file
+database.db
+
+# Environment variables (if you have any)
+.env
+
+# Optional logs
+*.log
