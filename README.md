@@ -21,7 +21,8 @@ This project is intended for **testing API endpoints** and learning backend inte
 - **Ngrok** installed (for sharing publicly):
 
 
-## Prerequisites
+## Directions
+
 1. node server.js 
 2. ngrok http PORT
 3. https://abcd1234.ngrok.io -> http://localhost:PORT
