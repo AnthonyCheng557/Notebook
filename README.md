@@ -20,6 +20,7 @@ This project is intended for **testing API endpoints** and learning backend inte
 - **Node.js** installed
 - **Ngrok** installed (for sharing publicly):
 
+---
 
 ## Directions
 
